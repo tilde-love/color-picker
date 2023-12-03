@@ -8,6 +8,6 @@ I plan to refactor this code and modernise it.
 
 ![Color Picker](_Docs/Color%20Picker.png)
 
-# Eye dropper will pick from anywhere!
+## Eye dropper will pick from anywhere!
 ![Eye Dropper](_Docs/Eye%20Dropper.png)
 
