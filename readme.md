@@ -6,8 +6,8 @@ I plan to refactor this code and modernise it.
 
 ## A stand-alone color picker dialog
 
-![Color Picker](/_Docs/Color Picker.png)
+![Color Picker](_Docs/Color%20Picker.png)
 
 # Eye dropper will pick from anywhere!
-![Eye Dropper](/_Docs/Eye Dropper.png)
+![Eye Dropper](_Docs/Eye%20Dropper.png)
 
